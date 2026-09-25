@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/satudata/(.*)",
+      "destination": "https://satudata-api.garutkab.go.id/$1"
+    },
+    {
+      "source": "/dataid/(.*)",
+      "destination": "https://data.go.id/$1"
+    },
+    {
+      "source": "/fonnte-api/(.*)",
+      "destination": "https://api.fonnte.com/$1"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "last_synced_at": "2026-09-23T17:27:00.000Z",
+  "status": "live_connected",
+  "is_online": true,
+  "total_sppg": 624,
+  "total_commodities": 24,
+  "server_url": "https://mistermbg.disperindag.garutkab.go.id",
+  "duration_ms": 1420,
+  "top_kecamatan": [
+    {
+      "kecamatan": "Tarogong Kidul",
+      "total_sppg": 48
+    },
+    {
+      "kecamatan": "Garut Kota",
+      "total_sppg": 42
+    },
+    {
+      "kecamatan": "Malangbong",
+      "total_sppg": 36
+    },
+    {
+      "kecamatan": "Karangpawitan",
+      "total_sppg": 31
+    },
+    {
+      "kecamatan": "Leles",
+      "total_sppg": 27
+    }
+  ]
+}
