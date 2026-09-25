@@ -25,7 +25,6 @@
 | Styling/UX | Tailwind CSS, Framer Motion, Sonner (toast) |
 | Backend / Database | Supabase (PostgreSQL, Auth, Realtime) |
 | Validasi Data | Zod |
-| Deployment | Vercel |
 | Autentikasi Tambahan | WhatsApp OTP |
 
 > Sesuaikan tabel ini bila ada perbedaan stack aktual di project (misalnya bila sebagian modul memakai Next.js).
